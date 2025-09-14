@@ -1,2 +1,2 @@
 ## Sales Dashboard
-[Download pdf version]
+[Download pdf version](Sales_Dashboard.pdf)
